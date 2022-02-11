@@ -1,0 +1,2 @@
+# UiPath_DeleteRowsMatchingRowsInOtherSheet_09Feb2022_2012
+UiPath Delete Rows Matching Other DT Rows
